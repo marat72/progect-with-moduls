@@ -1,0 +1,29 @@
+@media  screen and (max-width: 992px) {
+    .content .info-tabcontent {
+        flex-direction: column-reverse;
+    }
+    .content .info-tabcontent .description,
+    .content .info-tabcontent .photo {
+        width: 100%;
+    }
+    .content .contact {
+        width: 100%;
+    }
+    .content .contact-img img {
+        height: 400px;
+    }
+
+
+}
+
+     
+    
+			
+    
+            
+                
+			
+				 
+    
+        
+
